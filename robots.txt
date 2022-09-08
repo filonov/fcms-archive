@@ -1,0 +1,9 @@
+User-Agent: *
+Host: filonov.pro
+Disallow: /cms
+Disallow: /administrator
+Disallow: /shop/cart
+Disallow: /shop/order
+Disallow: /shop/fail    
+Disallow: /shop/success
+Disallow: /shop/confirmation
